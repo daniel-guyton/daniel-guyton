@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### Javascript is my primary programming. I've used it on the client using react and node in the backend. I also used jest and nock to write test and knex to interact with databases.
 <!--
 **daniel-guyton/daniel-guyton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
